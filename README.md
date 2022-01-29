@@ -22,13 +22,13 @@
 - type `npm install`
 - automatically install all dependence
 - create a .env file in backend folder
-- type `DATABASE_HOST=localhost <br>
-        DATABASE_USERNAME= //write your mysql database username<br>
-        DATABASE_PASSWORD= //write your mysql database password<br>
-        DATABASE_NAME= //write your mysql database name<br>
-        MAILTRAP_PORT= //write your mailtrap port number<br>
-        MAILTRAP_USER= //write your mailtrap user<br>
-        MAILTRAP_PASS= //write your mailtrap user`
+- type `DATABASE_HOST=localhost`<br>
+        `DATABASE_USERNAME= //write your mysql database username`<br>
+        `DATABASE_PASSWORD= //write your mysql database password`<br>
+        `DATABASE_NAME= //write your mysql database name`<br>
+        `MAILTRAP_PORT= //write your mailtrap port number`<br>
+        `MAILTRAP_USER= //write your mailtrap user`<br>
+        `MAILTRAP_PASS= //write your mailtrap user`
 - type `npm run start`
 
 ### Step-4
