@@ -1,5 +1,6 @@
 # HR Management System
 
+Live Site: https://sharp-kepler-fdc83e.netlify.app/
 ## Installation Requirement:
 1. Node js must be installed in your pc or download from here https://nodejs.org/dist/v16.13.2/node-v16.13.2-x64.msi and install
 2. Xampp must be installed in your pc or download from here https://www.apachefriends.org/index.html and install
